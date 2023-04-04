@@ -4,7 +4,6 @@ import requests
 import languages as ln
 import mysql.connector
 lang = ln.language
-import login
 # --Bot :
 admin = 5836106012
 bot = telebot.TeleBot("5896569615:AAFq45Wo2r9hYfbYlvNHqT3GAAnP3OVHPjo")
